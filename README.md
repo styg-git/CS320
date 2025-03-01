@@ -1,5 +1,5 @@
-# CS320
-Software Automation and Testing
+# CS320 - Software Automation and Testing
+
 **How can I ensure that my code, program, or software is functional and secure?**
 To ensure my software is both functional and secure, I focus on testing, validation, and security best practices. I write parameterized unit tests to maximize code coverage efficiently while reducing manual test writing. Regular code reviews, static analysis tools, and dependency checks help catch vulnerabilities early. By incorporating continuous integration and automated security testing, I can proactively address issues and maintain software reliability.
 
